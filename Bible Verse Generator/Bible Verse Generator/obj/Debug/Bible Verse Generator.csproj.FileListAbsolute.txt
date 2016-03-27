@@ -1,0 +1,7 @@
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\obj\Debug\Bible Verse Generator.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\obj\Debug\Bible_Verse_Generator.MainForm.resources
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\obj\Debug\Bible Verse Generator.csproj.GenerateResource.Cache
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\bin\Debug\Bible Verse Generator.exe
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\bin\Debug\Bible Verse Generator.pdb
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\obj\Debug\Bible Verse Generator.exe
+C:\Users\Nate\Documents\SharpDevelop Projects\Bible Verse Generator\Bible Verse Generator\obj\Debug\Bible Verse Generator.pdb
